@@ -56,7 +56,7 @@ docker-compose run liquibase --defaultsFile=liquibase.properties update
 
 ---
 
-## 🔄 Orden de ejecución
+##  Orden de ejecución
 
 1. Crear contenedor
 2. Ejecutar DDL
